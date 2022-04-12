@@ -1,0 +1,2 @@
+errorDocument 404 http://localhost/eclipse-workspace/pharm/erreur/404.php
+
